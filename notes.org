@@ -1,0 +1,7 @@
+<2022-09-17 Sat 20:48>: These are the commands I ran for this lab:
+#+begin_src bash
+bundle install
+bundle exec rake db:migrate db:seed
+#+end_src
+
+I then ran the 'bundle exec rake server' command as well to have a server running in the background.
